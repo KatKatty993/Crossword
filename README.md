@@ -36,7 +36,8 @@ g++ ddddd.cpp -o crossword -lsfml-graphics -lsfml-window -lsfml-system
 Run the Game
 
 ./crossword
+```
 
-Author
+#Author
 
 KatKatty993
