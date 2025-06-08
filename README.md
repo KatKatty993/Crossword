@@ -38,6 +38,6 @@ Run the Game
 ./crossword
 ```
 
-##Author
+## Author
 
 KatKatty993
